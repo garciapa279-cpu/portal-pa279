@@ -1,0 +1,5 @@
+{
+    "openclaude.launchCommand": "ollama run llama3",
+    "openclaude.terminalName": "Meu Portal Maraba",
+    "openclaude.useOpenAIShim": true
+}
